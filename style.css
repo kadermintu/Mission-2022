@@ -1,0 +1,81 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+
+}
+.flex{
+    display: flex;
+    margin-bottom: 100px;
+}
+h1{
+    font-size: 40px;
+}
+.text-line{
+    text-align: center;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+#mission-img{
+
+width: 141px;
+height: 141px;
+left: 188px;
+top: 748px;
+}
+#vission-img{
+
+width: 141px;
+height: 141px;
+left: 572px;
+top: 748px;
+}
+#goals-img{
+
+width: 141px;
+height: 141px;
+left: 948px;
+top: 748px;
+}
+#mission-background{
+    margin: 10px;
+background-color: rgba(79, 157, 166, 0.1);
+border-radius: 20px;
+}
+#vission-background{
+    margin: 10px;
+    background-color: rgba(255, 89, 89, 0.1);
+    border-radius: 20px;
+}
+#goals-background{
+    margin: 10px;
+    background-color: #FFF4D6;
+    border-radius: 20px;
+}
+.img-size{
+    width: 400px;
+height: 400px;
+left: 158px;
+top: 1185px;
+}
+.footer{
+    background-color: black;
+    font-family: lobster;
+}
+#mission-font{
+    color: white;
+}
+.orange{
+    color: orange;
+}
+#copy-right-font{
+    color: white;
+}
